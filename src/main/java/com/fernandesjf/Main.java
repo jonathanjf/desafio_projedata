@@ -51,7 +51,7 @@ public class Main {
 
   List<Funcionario> funcionarios = new ArrayList<>();
 
-  private void inserirFuncionarios(List<Funcionario> funcionarios) {
+  public void inserirFuncionarios(List<Funcionario> funcionarios) {
     // Insere os funcionários conforme a tabela
     funcionarios.add(new Funcionario("Maria", LocalDate.of(2000, 10, 18), new BigDecimal("2009.44"), "Operador"));
     funcionarios.add(new Funcionario("João", LocalDate.of(1990, 5, 12), new BigDecimal("2284.38"), "Operador"));
