@@ -36,6 +36,7 @@ public class Main {
     desafio.imprimirTotalSalarioFuncionarios(desafio.funcionarios);
     desafio.imprimirFuncionariosDeOutubroEdezembro(desafio.funcionarios);
     desafio.imprimeFuncionariosAgrupados(desafio.funcionarios);
+    desafio.imprimirFuncionarioMaisVelho(desafio.funcionarios);
 
     System.out.println("\nResultados após aumento salarial \n");
     desafio.darAumento(desafio.funcionarios);
