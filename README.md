@@ -17,7 +17,7 @@ Neste projeto foram desenvolvidas funções em Java com o intuito de demonstrar 
 - Insight de valor salarial de cada funcionário com base em salários mínimos
 - Cálculo do total dos salários
 
-## Rode localmente
+## Execute localmente
 
 Clone o projeto
 
